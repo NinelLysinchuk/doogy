@@ -1,0 +1,116 @@
+<div class='offers'> 
+	<div class='offers__text'>
+		<div class='offers__title'></div>
+		<div class='offers__description'></div>
+	</div>
+	<div class='offers__categories'>
+		<div class='offers__category'>
+			<div class='category'>
+				<div class='category__title'></div>
+				<a class='category__link'>
+					<img class='category__image'>
+				</a>
+			</div>
+			<div class='offers__showMore'></div>
+				<a class='offers__link'>
+			</div>
+		</div>
+	</div>
+ </div>
+ 
+ <div class=''></div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div class='howItWorks'>
+	<div class='howItWorks__title'></div>
+	<div class='howItWorks__articles'>
+		<div class='articles'>
+			<div class='articles__article'>
+				<div class='article'>
+					<img class='article__image' src=''>
+					<div class='article__title'></div>
+					<div class='article__description'></div>
+				</div>
+			</div>
+		</div>
+	<div class='howItWorks__slogan'></div>
+	</div>
+ </div>
+ 
+ 
+ <form class='request__form'>
+	<div class='quickContact'>
+		<div class='quickContact__field'>
+			<span class='quickContact__label'> Ім'я </span> 
+			<input class='quickContact__name' type='text' placeholder=''>
+		</div>
+		<div class='quickContact__field'>
+			<span class='quickContact__label'> Номер телефону </span> 
+			<input class='quickContact__phone' type='tel' >
+		</div>
+		<button  class='quickContact__button' type='submit'> Відправити </button>
+	</div>
+</form>
+ 
+ 
+ 
+  <div class='footer'>
+	<div class='footer__branding'>
+		<div class='branding'>
+			<div class='branding__logo'>
+				<div class='logo'></div>
+				<div class='logo_tm'></div>
+			</div>
+			<div class='branding__slogan'></div>
+			<div class='footerBottom__copyright'></div>
+		</div>
+	</div>
+
+	<div class='footer__navigation'></div>
+		<div class='footer__menu'>
+			<div class='colmenu'>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Про нас </a>
+				</div>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Контакти </a>
+				</div>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Наша продукція </a>
+				</div>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Умови придбання </a>
+				</div>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Доаставка </a>
+				</div>
+				<div class='colmenu__item'>
+					<a class='colmenu__link'> Форма зворотнього з'вязку </a>
+				</div>
+			</div>
+		</div>
+					
+		<div class='footer__socials'>
+			<div class='socials'>
+				 <div class='social'>
+					 <a class='social__insta'>
+						<img class='insta' src=''>
+					 </a>
+				</div>
+				 <div class='social'>
+					 <a class='social__email'>
+						<img class='email' src=''>
+					 </a>
+				</div>
+			</div>
+		</div>
+	</div>
+			 
+ 
